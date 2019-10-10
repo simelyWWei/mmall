@@ -1,4 +1,4 @@
-package com.ww.growup.mmall.config;
+package com.ww.growup.mmall.sys.config;
 
 import com.alibaba.fastjson.parser.ParserConfig;
 import com.alibaba.fastjson.serializer.SerializerFeature;

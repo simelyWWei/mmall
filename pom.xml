@@ -84,6 +84,13 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+
+        <!--引入本地自动配置-->
+        <dependency>
+            <groupId>com.ww.growup.autoconfig</groupId>
+            <artifactId>externalutils-demo</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
     <build>

@@ -1,5 +1,5 @@
 server:
-  port: 9999
+  port: 8180
   servlet:
     context-path:
 
@@ -11,3 +11,6 @@ mybatis-plus:
   mapper-locations: classpath*:mapping/*.xml
   configuration:
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+externalutils:
+  enabled: true
